@@ -1,5 +1,5 @@
 ![MasterHead](https://www.margasoft.com/Themes/Margasoft/Content/images/services/qa-testing/qa-image.gif)
-<img align="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVydVDaV9cjWlLxkVUAvDqPbrt4iRi_IF1g&usqp=CAU">
+<img align="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLJ0LHh2fO1n2rrISFaokfGqeFuLsjTtltA&usqp=CAU">
 <img align="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLGr2dKOFPM3HA1Xd58M8YAr-ILx_6BKx0g&usqp=CAU">
 
 <h1 align="center">Hi 👋, I'm SERKAN </h1>
