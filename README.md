@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm SERKAN </h1>
 <h2 align="center">SOFTWARE TEST ENGINEER</h2>
-<h3 align="left">As a competent and results-oriented Software Test Engineer with over 2 years of experience, I excel in conducting both UI and backend tests throughout the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). With a strong attention to detail, I have successfully identified and resolved potential issues in software applications.
-Collaborating effectively with cross-functional teams, I create comprehensive test plans, execute test cases, and provide valuable feedback. With excellent communication and problem-solving skills, I am well-equipped to contribute to any software testing project, ensuring high-quality results.</h3>
+<h4 align="left">As a competent and results-oriented Software Test Engineer with over 2 years of experience, I excel in conducting both UI and backend tests throughout the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). With a strong attention to detail, I have successfully identified and resolved potential issues in software applications.
+Collaborating effectively with cross-functional teams, I create comprehensive test plans, execute test cases, and provide valuable feedback. With excellent communication and problem-solving skills, I am well-equipped to contribute to any software testing project, ensuring high-quality results.</h4>
 <h3 align="left">Connect with me</h3>
 <img align="right" alt="Coding" width="400" src="https://www.margasoft.com/Themes/Margasoft/Content/images/services/qa-testing/qa-image.gif">
 
