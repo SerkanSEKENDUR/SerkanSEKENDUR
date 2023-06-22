@@ -1,5 +1,5 @@
 ![MasterHead](https://www.margasoft.com/Themes/Margasoft/Content/images/services/qa-testing/qa-image.gif)
-<h1 align="center">Hi 👋, I'm SERKAN SEKENDUR </h1>
+<h1 align="center">Hi 👋, I'm SERKAN </h1>
 <h2 align="center">SOFTWARE TEST ENGINEER</h2>
 <h3 align="left">Connect with me</h3>
 <img align="right" alt="Coding" width="400" src="https://www.margasoft.com/Themes/Margasoft/Content/images/services/qa-testing/qa-image.gif">
