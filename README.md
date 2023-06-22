@@ -1,4 +1,4 @@
-[![MasterHead](https://www.margasoft.com/Themes/Margasoft/Content/images/services/qa-testing/qa-image.gif)
+![MasterHead](https://www.margasoft.com/Themes/Margasoft/Content/images/services/qa-testing/qa-image.gif)
 <h1 align="center">Hi 👋, I'm SERKAN SEKENDUR </h1>
 <h2 align="center">SOFTWARE TEST ENGINEER</h2>
 <h3 align="left">Connect with me</h3>
