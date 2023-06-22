@@ -1,8 +1,7 @@
 ![MasterHead](https://www.margasoft.com/Themes/Margasoft/Content/images/services/qa-testing/qa-image.gif)
 <img align="left" alt="Coding" width="400" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLJ0LHh2fO1n2rrISFaokfGqeFuLsjTtltA&usqp=CAU">
 <img align="left" alt="Coding" width="400" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLGr2dKOFPM3HA1Xd58M8YAr-ILx_6BKx0g&usqp=CAU">
-<br>
-<h1 align="center">  </h1>
+
 <h1 align="center">Hi 👋, I'm SERKAN </h1>
 <h2 align="center">SOFTWARE TEST ENGINEER</h2>
 <h3 align="left">Connect with me</h3>
