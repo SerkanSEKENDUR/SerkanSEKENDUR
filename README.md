@@ -2,8 +2,8 @@
 <img align="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVydVDaV9cjWlLxkVUAvDqPbrt4iRi_IF1g&usqp=CAU">
 <img align="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5udmFD75HwpcePYlEtUaWGCqZryQ1PvbC6w&usqp=CAU">
 
-<h1 align="left">Hi 👋, I'm SERKAN </h1>
-<h2 align="left">SOFTWARE TEST ENGINEER</h2>
+<h1 align="center">Hi 👋, I'm SERKAN </h1>
+<h2 align="center">SOFTWARE TEST ENGINEER</h2>
 <h3 align="left">Connect with me</h3>
 <img align="right" alt="Coding" width="400" src="https://www.margasoft.com/Themes/Margasoft/Content/images/services/qa-testing/qa-image.gif">
 
