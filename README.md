@@ -11,7 +11,7 @@
 <p align="left">
 </p>
 
-# 💻 Languages and Tools:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 💻 Languages and Tools:</b>
 *JAVA *AGILE/SCRUM *JDBC *JAVASCRIPT *SELENIUM *JIRA/X-RAY *API *JENKINS *INTELLIJ *JUNIT *TESTNG *CUCUMBER BDD *GIT/GITHUB *POSTMAN *AWS *ECLIPSE *JMETER *POSTGRESQL *APPIUM
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -33,3 +33,12 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> &emsp; </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> &emsp; </a>
 </p>
+
+[![VScode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Visual_Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![Gherkin](https://skillicons.dev/icons?i=gherkin)](https://cucumber.io/docs/gherkin/)
+[![Intellij](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/)
+
+<br />
